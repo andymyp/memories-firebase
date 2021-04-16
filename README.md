@@ -1,4 +1,4 @@
-# memories-firebase
+# Memories
 ![](./src/assets/screenshot/memories.png)
 
 Memories merupakan aplikasi android yang menggunakan React Native, Redux, Firebase
